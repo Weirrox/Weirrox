@@ -1,16 +1,15 @@
-## Hi there 👋
+___  ___         ______           __ _ _             
+|  \/  |         | ___ \         / _(_) |         _     🔫 : https://guns.lol/jonahop
+| .  . |_   _    | |_/ / __ ___ | |_ _| | ___    (_) 
+| |\/| | | | |   |  __/ '__/ _ \|  _| | |/ _ \       
+| |  | | |_| |   | |  | | | (_) | | | | |  __/    _     💻 : || https://github.com/jonahop || https://github.com/Weirrox ||
+\_|  |_/\__, |   \_|  |_|  \___/|_| |_|_|\___|   (_) 
+         __/ |                                       
+        |___/                                           
 
-<!--
-**Weirrox/Weirrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                
+## 📊 Statistiques GitHub
+
+![Tes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateurGitHub&show_icons=true&hide_border=true&count_private=true&theme=radical)
